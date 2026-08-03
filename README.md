@@ -40,7 +40,7 @@ The application connects to the configured network share, locates the correspond
 
 ### XML Inspection
 
-![XML viewer](images/xml_viewer.jpg)
+![XML viewer](images/xml-viewer.jpg)
 
 ---
 
@@ -126,7 +126,7 @@ SSE_XML_Explorer/
 │   ├── app.jpg
 │   ├── search.jpg
 │   ├── search-result-demo.jpg
-│   └── xml_viewer.jpg
+│   └── xml-viewer.jpg
 ├── utils/
 │   ├── __init__.py
 │   └── errors.py
