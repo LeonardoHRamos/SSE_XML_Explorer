@@ -1,4 +1,4 @@
-# SSE XML Explorer
+# Industrial XML Extraction Tool
 
 Desktop application developed in Python to search and extract production information directly from XML files stored on industrial workstations.
 
